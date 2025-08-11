@@ -6,4 +6,4 @@ Este repositorio contiene proyectos prácticos realizados para desarrollar habil
 - **Archivos**:
   - `analisis_seguridad.ps1`: Script para extraer eventos.
   - `InformeSeguridad.csv`: Datos de eventos analizados.
-  - `Informe_Ciberseguridad_Agosto2025.md`: Reporte detallado.
+  - `Informe_Ciberseguridad_Agosto2025.docx`: Reporte detallado.
